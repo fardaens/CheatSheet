@@ -1,0 +1,47 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+     text-align: center;
+}
+
+thead {
+background-color: darkturquoise;
+}
+
+table {
+    border: 1px solid darkcyan;
+    border-width: 2px;
+    margin: 0 auto;
+}
+
+td {
+    border-bottom: 1px darkcyan;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: darkcyan;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.col1 {
+    width: 110px;
+}
+
+.col2 {
+    width: 150px;
+}
+
+.col3 {
+    width: 300px;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+  }
